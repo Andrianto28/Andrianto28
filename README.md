@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrianto28
 - 👀 I’m interested in Data and stuff
 - 🌱 I’m currently learning AI 
-- 💞️ I’m looking to collaborate on some Internship Program
+- 💞️ I’m looking for to collaborate on some project or work
 - 📫 How to reach me? you can contact me at muhamadandrianto091@gmail.com
 
 <!---
